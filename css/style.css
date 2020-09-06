@@ -1,0 +1,63 @@
+body{
+    background-color: red; 
+}
+
+h1{
+    color: blue;
+}
+
+/* id kefkom reng sari */
+#kefkom{
+    color: yellow;
+}
+
+.ebulfez{
+    color: aqua;
+}
+
+
+.ag{
+    color: white;
+}
+
+
+.blue{
+    color: blue;
+}
+
+.f-32{
+    font-size: 32px;
+}
+
+.blue.f-32.second{
+    opacity: 0.5;
+}
+
+/* *{
+    text-transform: uppercase;
+} */
+
+.action{
+    color: darkorange;
+}
+
+button.action{
+    font-size: 30px;
+}
+/* id tag class */
+
+.ebulfez, h2, #kefkom{
+    text-transform: uppercase;
+}
+
+p span{
+
+}
+
+#kefkom+h2{
+    font-size: 60px;
+}
+
+h4+h2{
+    font-size: 120px;
+}
